@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @taha-majdlawi
-- 👀 I’m interested in Flutter developer.
-- 🌱 I’m currently learning Flutter UI & Db.
+- 👀 I’m interested in FLUTTER developer.
 - 📫You can reach me here or on tahaat659@gmail.com, my whatsApp +970592345890
 
 
