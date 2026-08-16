@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-majdlawi&label=Profile%20views&color=0e75b6&style=flat" alt="taha-majdlawi" /> </p>
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m **FLUTTER DEVELOPER**
 
 - 💬 Ask me about **anything**
 
